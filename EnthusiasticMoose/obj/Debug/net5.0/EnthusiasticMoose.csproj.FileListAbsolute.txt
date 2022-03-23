@@ -1,0 +1,16 @@
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.AssemblyInfoInputs.cache
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.AssemblyInfo.cs
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\bin\Debug\net5.0\EnthusiasticMoose.exe
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\bin\Debug\net5.0\EnthusiasticMoose.deps.json
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\bin\Debug\net5.0\EnthusiasticMoose.runtimeconfig.json
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\bin\Debug\net5.0\EnthusiasticMoose.runtimeconfig.dev.json
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\bin\Debug\net5.0\EnthusiasticMoose.dll
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\bin\Debug\net5.0\ref\EnthusiasticMoose.dll
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\bin\Debug\net5.0\EnthusiasticMoose.pdb
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.dll
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\obj\Debug\net5.0\ref\EnthusiasticMoose.dll
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.pdb
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.genruntimeconfig.cache

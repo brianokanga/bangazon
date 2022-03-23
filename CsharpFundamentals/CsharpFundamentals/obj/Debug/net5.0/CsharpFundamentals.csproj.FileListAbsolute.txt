@@ -1,0 +1,16 @@
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\bin\Debug\net5.0\CsharpFundamentals.exe
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\bin\Debug\net5.0\CsharpFundamentals.deps.json
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\bin\Debug\net5.0\CsharpFundamentals.runtimeconfig.json
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\bin\Debug\net5.0\CsharpFundamentals.runtimeconfig.dev.json
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\bin\Debug\net5.0\CsharpFundamentals.dll
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\bin\Debug\net5.0\CsharpFundamentals.pdb
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\obj\Debug\net5.0\CsharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\obj\Debug\net5.0\CsharpFundamentals.AssemblyInfoInputs.cache
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\obj\Debug\net5.0\CsharpFundamentals.AssemblyInfo.cs
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\obj\Debug\net5.0\CsharpFundamentals.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\obj\Debug\net5.0\CsharpFundamentals.dll
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\obj\Debug\net5.0\ref\CsharpFundamentals.dll
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\obj\Debug\net5.0\CsharpFundamentals.pdb
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\obj\Debug\net5.0\CsharpFundamentals.genruntimeconfig.cache
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\obj\Debug\net5.0\CsharpFundamentals.csproj.AssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\NSS\bangazon\CsharpFundamentals\CsharpFundamentals\obj\Debug\net5.0\refint\CsharpFundamentals.dll
